@@ -1,0 +1,8 @@
+enter principal amount
+2000
+enter the rate
+20
+enter the time
+1
+20:40:00.272 [main] ERROR com.logger.loggingdemo.SimpleCompoundI - 400.0
+20:40:00.282 [main] ERROR com.logger.loggingdemo.SimpleCompoundI - 2400.0000953674316

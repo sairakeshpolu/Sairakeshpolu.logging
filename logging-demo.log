@@ -1,0 +1,7 @@
+enter material standard
+abovestand
+enter the area of house
+2000
+enter cost per square feet
+20
+cost per square feet is:20:41:41.147 [main] ERROR com.logger.loggingdemo.HouseConstruct - 3000000.0
